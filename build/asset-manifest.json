@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70b82642.css",
+    "main.js": "/static/js/main.1c78eccd.js",
+    "static/media/earpods2.png": "/static/media/earpods2.4d7e9f900060867e2367.png",
+    "static/media/BO4.png": "/static/media/BO4.1116d29b1f12f9843e28.png",
+    "static/media/GH-04.png": "/static/media/GH-04.8c22af94fa9ede1d521e.png",
+    "static/media/S852.png": "/static/media/S852.6ee92453daaa64a82e61.png",
+    "static/media/AirPods.png": "/static/media/AirPods.44654183970b4b2c3ecd.png",
+    "static/media/earpods1.png": "/static/media/earpods1.e07f489c909721a412cb.png",
+    "static/media/VK.svg": "/static/media/VK.200332db80feb34aac09a5f6d7d91e63.svg",
+    "static/media/Whatsapp.svg": "/static/media/Whatsapp.8dc15f232a985aef74ed03315e7a3148.svg",
+    "static/media/Cart.svg": "/static/media/Cart.0755738f949b36eb371956870cd1c963.svg",
+    "static/media/Lang.svg": "/static/media/Lang.c009d57963bd860a4c814e2befc3e4d7.svg",
+    "static/media/Telegram.svg": "/static/media/Telegram.17041232c86fdbc127e2f87541348769.svg",
+    "static/media/Delete.svg": "/static/media/Delete.c3b466f51641c238a464efcaaee70ebf.svg",
+    "static/media/Heart.svg": "/static/media/Heart.e4867065cdf4a8882b292150c7141fcc.svg",
+    "index.html": "/index.html",
+    "static/media/Star.svg": "/static/media/Star.da79d665a037d8fbecbb6bdda1af4902.svg",
+    "main.70b82642.css.map": "/static/css/main.70b82642.css.map",
+    "main.1c78eccd.js.map": "/static/js/main.1c78eccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70b82642.css",
+    "static/js/main.1c78eccd.js"
+  ]
+}
