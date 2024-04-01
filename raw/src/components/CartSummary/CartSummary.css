@@ -1,0 +1,43 @@
+.checkout{
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+  border-radius: 30px;
+  padding: 20px;
+  width: 100%;
+  max-width: 300px;
+  margin: 20px 0 40px 0;
+  display: flex;
+  flex-direction: column; 
+  position: relative;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  color: #000000;
+  margin: 0 0 50px 0;
+}
+
+.button {
+  position: absolute; /* абсолютное позиционирование кнопки */
+  height: 55%;
+  width: 100%;
+  bottom: 0;
+  left: 50%; /* выравнивание кнопки по центру */
+  transform: translateX(-50%); /* смещение кнопки влево на половину ее ширины */
+  background-color: #101010;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.15);
+  cursor: pointer; /* изменение курсора при наведении */
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+}

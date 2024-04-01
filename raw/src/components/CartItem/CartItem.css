@@ -1,0 +1,162 @@
+.row-card {
+  display: flex;
+}
+
+.cart-card {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+  border-radius: 30px;
+  padding: 20px;
+  width: 100%;
+  max-width: 700px;
+  margin: 20px 0;
+}
+
+.cart-content {
+  height: 100%;
+  display: flex; 
+}
+
+.cart-delete {
+  cursor: pointer;
+  position: relative; 
+  top: 40px;
+  right: 40px;
+}
+
+.cart-img-quantity {
+  height: 100%;
+  display: flex; 
+  flex-direction: column; 
+  justify-content: baseline;
+}
+
+.cart-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.cart-quantity {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.minus {
+  cursor: pointer;
+  margin-right: 25px;
+}
+
+.plus {
+  cursor: pointer;
+  margin-left: 25px;
+}
+
+.cart-quantity span {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  color: #000000;
+}
+
+.cart-title-price {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cart-title-price h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500; /* Medium */
+  font-size: 17px;
+  color: #1C1C27;
+  margin: 0 0 15px 0;
+}
+
+.cart-title-price p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  color: #AAAAAA;
+  margin: 0;
+}
+
+.cart-sum-price {
+  margin-left: auto;
+  align-self: end; 
+}
+
+.cart-sum-price p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+.product-info {
+  /* стили для информации о товаре */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* текст прижат к низу */
+}
+
+.title-price {
+  display: flex;
+  justify-content:space-between; 
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: #1c1c27;
+}
+
+.price {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: #FFA542;
+}
+
+.rating-button {
+  display: flex;
+  justify-content:space-between; 
+}
+
+.rating {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: #838383;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rating span {
+  margin-left: 10px;
+}
+
+.buy-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: #000000;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  text-align: right;
+}

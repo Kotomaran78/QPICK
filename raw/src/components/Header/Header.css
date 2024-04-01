@@ -1,0 +1,58 @@
+/* Стили для хедера */
+
+/* Основной контейнер хедера */
+.header {
+  display: flex; /* Отображаем его как flex-контейнер */
+  justify-content: space-between; /* Распределяем элементы по горизонтали */
+  align-items: center; /* Выравниваем элементы по вертикали */
+  background-color: transparent; /* Прозрачный фон */
+  padding-top: 15px; /* Добавляем внутренний отступ сверху */
+  padding-bottom: 15px; /* Добавляем внутренний отступ снизу */
+}
+
+/* Стили для логотипа */
+.logo {
+  font-family: 'Montserrat', sans-serif; /* Шрифт */
+  font-weight: bold; /* Жирный шрифт */
+  font-size: 25px; /* Размер шрифта */
+  text-decoration: none; /* Убираем подчеркивание у ссылки */
+  color: #101010; /* Цвет текста */
+}
+
+
+/* Стили для блока с иконками */
+.icons {
+  display: flex; /* Отображаем его как flex-контейнер */
+  margin-right: 20px;
+}
+
+/* Стили для отдельной иконки */
+.icon {
+  position: relative; /* Позиционируем относительно своего родителя */
+  margin-left: 40px; /* Добавляем отступ слева */
+  cursor: pointer; /* Делаем курсор указателем при наведении */
+  text-decoration: none;
+  color: #101010; /* Цвет текста */
+  display: flex;
+  align-items: center;
+}
+
+ 
+/* Стили для кружочка счетчика */
+.badge {
+  position: absolute; /* Позиционирование */
+  top: -8px; /* Отступ сверху */
+  right: -11px; /* Отступ справа */
+  background-color: #FFA542; /* Цвет кружочка */
+  color: #FFFFFF; /* Цвет текста счетчика */
+  font-family: 'Montserrat', sans-serif; /* Шрифт Montserrat */
+  font-weight: medium; /* Среднее начертание */
+  font-size: 15px; /* Размер шрифта */
+  width: 20px; /* Ширина */
+  height: 20px; /* Высота */
+  display: flex; /* Отображение как флекс-контейнер */
+  justify-content: center; /* Выравнивание по центру по горизонтали */
+  align-items: center; /* Выравнивание по центру по вертикали */
+  border-radius: 50%; /* Создание круглой формы */
+}
+
