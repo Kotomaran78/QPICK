@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70b82642.css",
-    "main.js": "/static/js/main.1c78eccd.js",
+    "main.css": "/static/css/main.604f2628.css",
+    "main.js": "/static/js/main.635b32cc.js",
     "static/media/earpods2.png": "/static/media/earpods2.4d7e9f900060867e2367.png",
     "static/media/BO4.png": "/static/media/BO4.1116d29b1f12f9843e28.png",
     "static/media/GH-04.png": "/static/media/GH-04.8c22af94fa9ede1d521e.png",
@@ -14,14 +14,16 @@
     "static/media/Lang.svg": "/static/media/Lang.c009d57963bd860a4c814e2befc3e4d7.svg",
     "static/media/Telegram.svg": "/static/media/Telegram.17041232c86fdbc127e2f87541348769.svg",
     "static/media/Delete.svg": "/static/media/Delete.c3b466f51641c238a464efcaaee70ebf.svg",
-    "static/media/Heart.svg": "/static/media/Heart.e4867065cdf4a8882b292150c7141fcc.svg",
     "index.html": "/index.html",
+    "static/media/Heart.svg": "/static/media/Heart.e4867065cdf4a8882b292150c7141fcc.svg",
     "static/media/Star.svg": "/static/media/Star.da79d665a037d8fbecbb6bdda1af4902.svg",
-    "main.70b82642.css.map": "/static/css/main.70b82642.css.map",
-    "main.1c78eccd.js.map": "/static/js/main.1c78eccd.js.map"
+    "static/media/Plus.svg": "/static/media/Plus.1806841228dec27a021b7d74e7d89ada.svg",
+    "static/media/Minus.svg": "/static/media/Minus.e7fc98fbf22964a70fb437e1f326da40.svg",
+    "main.604f2628.css.map": "/static/css/main.604f2628.css.map",
+    "main.635b32cc.js.map": "/static/js/main.635b32cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.70b82642.css",
-    "static/js/main.1c78eccd.js"
+    "static/css/main.604f2628.css",
+    "static/js/main.635b32cc.js"
   ]
 }
